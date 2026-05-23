@@ -1,0 +1,81 @@
+aid: tenstorrent
+name: Tenstorrent
+description: >-
+  Tenstorrent is an AI hardware company designing Tensix and Tensix++ based
+  AI accelerators on the open RISC-V architecture, including the Wormhole
+  and Blackhole generations of cards, the TT-QuietBox workstation, and the
+  Galaxy Blackhole 6U server housing 32 Blackhole chips. The company is
+  unusual in the AI silicon space for shipping a fully open-source software
+  stack including TT-Metal (the low-level kernel and operator library),
+  TT-Forge (an MLIR-based compiler for PyTorch, JAX, and ONNX), TT-MLIR,
+  TT-XLA, the TT-Inference-Server, and RISC-V cores and toolchains. Pricing
+  is published from 999 dollars for an entry card up to 440,000 dollars for
+  a base Galaxy supercluster. Tenstorrent does not currently offer a public
+  hosted-inference API, so this profile catalogs hardware, SDKs, compilers,
+  and open-source repositories rather than an HTTP API surface.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - AI Hardware
+  - RISC-V
+  - Accelerator
+  - Open Source
+  - Compiler
+  - MLIR
+  - PyTorch
+  - JAX
+  - SDK
+  - Datacenter
+url: https://raw.githubusercontent.com/api-evangelist/tenstorrent/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://tenstorrent.com
+  - type: Hardware
+    url: https://tenstorrent.com/en/hardware/wormhole
+  - type: Hardware
+    url: https://tenstorrent.com/en/hardware/blackhole
+  - type: Hardware
+    url: https://tenstorrent.com/en/hardware/galaxy
+  - type: Hardware
+    url: https://tenstorrent.com/en/hardware/tt-quietbox
+  - type: Developer Portal
+    url: https://tenstorrent.com/developers
+  - type: Documentation
+    url: https://docs.tenstorrent.com
+  - type: GitHubOrganization
+    url: https://github.com/tenstorrent
+  - type: SDK
+    url: https://github.com/tenstorrent/tt-metal
+  - type: Compiler
+    url: https://github.com/tenstorrent/tt-forge
+  - type: Compiler
+    url: https://github.com/tenstorrent/tt-mlir
+  - type: Compiler
+    url: https://github.com/tenstorrent/tt-xla
+  - type: InferenceServer
+    url: https://github.com/tenstorrent/tt-inference-server
+  - type: Debugger
+    url: https://github.com/tenstorrent/tt-exalens
+  - type: Simulator
+    url: https://github.com/tenstorrent/polaris
+  - type: Discord
+    url: https://discord.gg/tenstorrent
+  - type: Blog
+    url: https://tenstorrent.com/en/news
+  - type: BountyProgram
+    url: https://tenstorrent.com/en/bounties
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/tenstorrent-inc
+  - type: Twitter
+    url: https://twitter.com/tenstorrent
+  - type: Email
+    url: mailto:ospo@tenstorrent.com
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
