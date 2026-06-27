@@ -44,13 +44,13 @@ common:
     url: https://tenstorrent.com/en/hardware/galaxy
   - type: Hardware
     url: https://tenstorrent.com/en/hardware/tt-quietbox
-  - type: Developer Portal
+  - type: DeveloperPortal
     url: https://tenstorrent.com/developers
   - type: Documentation
     url: https://docs.tenstorrent.com
   - type: GitHubOrganization
     url: https://github.com/tenstorrent
-  - type: SDK
+  - type: SDKs
     url: https://github.com/tenstorrent/tt-metal
   - type: Compiler
     url: https://github.com/tenstorrent/tt-forge
