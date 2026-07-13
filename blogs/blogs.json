@@ -2,13 +2,14 @@
   "repo": "tenstorrent",
   "feeds": [
     {
-      "source": "https://tenstorrent.com/en/news",
-      "feed_url": "",
+      "source": "https://discord.gg/tenstorrent",
+      "feed_url": "https://discord.gg/tenstorrent",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-27T13:15:57Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "agent_pulled": "2026-06-27"
 }
