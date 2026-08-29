@@ -14,6 +14,17 @@ description: >-
   hosted-inference API, so this profile catalogs hardware, SDKs, compilers,
   and open-source repositories rather than an HTTP API surface.
 type: Index
+deliveryModel:
+  model: library
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Library · distributed through package registries, no callable service
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
