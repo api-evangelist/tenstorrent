@@ -43,13 +43,13 @@ tags:
   - AI Hardware
   - RISC-V
   - Accelerator
-  - Open-Source
+  - Open Source
   - Compilers
   - MLIR
   - PyTorch
   - JAX
   - SDK
-  - Data-Center
+  - Data Center
 tags_raw:
   - AI Hardware
   - RISC-V
@@ -61,6 +61,8 @@ tags_raw:
   - JAX
   - SDK
   - Datacenter
+  - Open-Source
+  - Data-Center
 url: https://raw.githubusercontent.com/api-evangelist/tenstorrent/refs/heads/main/apis.yml
 created: '2026-05-23'
 modified: '2026-05-23'
